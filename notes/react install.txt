@@ -1,0 +1,9 @@
+install react
+------------------
+1. install node.js (node and npm installed)
+    from internet
+2. install environment for react app
+    npm install  -g create-react-app
+    create-react-app --version - >check version
+3. create react application
+    create-react-app app_name
